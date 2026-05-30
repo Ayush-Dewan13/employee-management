@@ -5,3 +5,7 @@ Role: Software Engineer
 ID: 102
 Name: Rahul Sharma
 Role: Tester
+
+ID: 103
+Name: Priya Singh
+Role: HR Manager
